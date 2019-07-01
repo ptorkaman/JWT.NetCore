@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\obj\Debug\netcoreapp2.0\JWTNetCore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\obj\Debug\netcoreapp2.0\JWTNetCore.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\obj\Debug\netcoreapp2.0\JWTNetCore.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\bin\Debug\netcoreapp2.0\JWTNetCore.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\bin\Debug\netcoreapp2.0\JWTNetCore.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\bin\Debug\netcoreapp2.0\JWTNetCore.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\bin\Debug\netcoreapp2.0\JWTNetCore.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\bin\Debug\netcoreapp2.0\JWTNetCore.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\obj\Debug\netcoreapp2.0\JWTNetCore.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\obj\Debug\netcoreapp2.0\JWTNetCore.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\JWTNetCore\JWTNetCore\obj\Debug\netcoreapp2.0\JWTNetCore.csprojAssemblyReference.cache
